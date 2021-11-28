@@ -1,3 +1,10 @@
+# A friend recently reached out and wanted to know if he should sell his company ESPP stock and 
+# roll into an ETF, or if he should stick with his stocks for another year. 
+
+# Note: ask about long term tax impications for the above.
+
+
+# Import libraries
 import numpy
 import pandas as pd
 import seaborn as sns
