@@ -1,3 +1,9 @@
+# Purpose: The goal is to write out a series of functions that will let you get a good overview
+# of all relevant metrics for a given stock, from mapping out recent moves, ratios over time, 
+# as well as competitive analysis and a rudimentary scoring system, that will help understand the 
+# competitive landscape for a company.
+
+
 #Installing dependencies (colab needs a pip)
 !pip install finvizfinance
 
